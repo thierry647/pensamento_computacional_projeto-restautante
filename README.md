@@ -86,5 +86,3 @@ Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar pull requests
 Este projeto é voltado para **aprendizado colaborativo** e prática de desenvolvimento em Python.  
 
 ---
-
-Quer que eu formate esse README já com **seções de instalação e execução** (ex.: como rodar o projeto no terminal), ou prefere manter apenas a descrição e funcionalidades?
